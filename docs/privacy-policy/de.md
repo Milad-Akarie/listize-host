@@ -7,6 +7,7 @@ Bei **Listize** legen wir großen Wert auf den Schutz Ihrer Privatsphäre. Diese
 ## 1. Informationen, die wir sammeln
 
 ### a. **Geräteinformationen (bei Feedback)**
+
 Wir erfassen Geräteinformationen wie:
 
 - Gerätetyp (z.B. Smartphone, Tablet)
@@ -16,6 +17,7 @@ Wir erfassen Geräteinformationen wie:
 Diese Informationen werden **ausschließlich** beim Einreichen von Feedback erfasst, um uns bei der Fehlerbehebung und Verbesserung der App zu unterstützen.
 
 ### b. **Kontoinformationen (Social Login)**
+
 Wenn Sie ein Konto über Social Login (z.B. Google, Apple, Facebook) erstellen, können wir folgende Informationen vom Drittanbieter erfassen:
 
 - **Name**
@@ -25,6 +27,7 @@ Wenn Sie ein Konto über Social Login (z.B. Google, Apple, Facebook) erstellen, 
 Wir erfassen nur die für die Kontoerstellung und Authentifizierung notwendigen Informationen. Ihre Social-Login-Anmeldedaten (z.B. Passwort) werden nicht mit uns geteilt. Stattdessen verwaltet der Drittanbieter Ihren Anmeldeprozess sicher.
 
 ### c. **Einkaufslisten-Daten (KI-Dienste)**
+
 Wenn Sie die KI-gestützten Funktionen von **Listize** nutzen (wie das Erstellen von Einkaufslisten oder Empfehlungen), können Ihre Einkaufslistendaten mit KI-Dienstleistern zur Verarbeitung geteilt werden. Diese Daten werden ausschließlich zur Bereitstellung KI-bezogener Funktionen innerhalb der App verwendet.
 
 Die mit KI-Diensten geteilten Informationen können umfassen:
@@ -35,6 +38,7 @@ Die mit KI-Diensten geteilten Informationen können umfassen:
 Wir stellen sicher, dass KI-Dienstleister Datenschutzstandards einhalten, aber sobald Ihre Daten mit diesen Anbietern geteilt werden, werden sie gemäß deren Datenschutzrichtlinien verarbeitet.
 
 ### d. **Nutzerfeedback**
+
 Wenn Sie Feedback geben, können Sie zusätzliche Details wie Problembeschreibungen, Screenshots oder Vorschläge einreichen. Diese Informationen sind freiwillig und helfen uns, Ihr Feedback effektiv zu bearbeiten.
 
 ## 2. Wie wir Ihre Informationen verwenden
@@ -53,14 +57,17 @@ Wir erfassen oder verwenden keine personenbezogenen Daten für andere Zwecke ohn
 Wir verkaufen, vermieten oder teilen Ihre personenbezogenen Daten nicht mit Dritten, außer in folgenden Fällen:
 
 ### a. **KI-Dienstleister**
+
 Bei der Nutzung von KI-Funktionen in **Listize** teilen wir Ihre Einkaufslistendaten mit vertrauenswürdigen KI-Dienstleistern zur Generierung von Empfehlungen oder Verbesserung Ihres Einkaufserlebnisses. Diese Anbieter verarbeiten Ihre Daten zur Bereitstellung der gewünschten KI-Funktionalität und sind an strenge Vertraulichkeits- und Datenschutzvereinbarungen gebunden.
 
 Bitte beachten Sie, dass die Drittanbieter die eigentliche Verarbeitung durchführen und deren Datenschutzpraktiken bestimmen, wie sie Ihre Informationen verwenden, auch wenn wir Schritte zum Schutz Ihrer Daten unternehmen.
 
 ### b. **Andere Drittanbieter**
+
 Wir können Drittanbieter für die Verarbeitung von Feedback, die Verwaltung der Social-Login-Authentifizierung und die Datenspeicherung einsetzen. Diese Anbieter sind an Vertraulichkeitsvereinbarungen gebunden und dürfen Ihre Daten nur für die von uns autorisierten Zwecke verwenden.
 
 ### c. **Gesetzliche Anforderungen**
+
 Wenn gesetzlich erforderlich, können wir Ihre Informationen offenlegen, um rechtlichen Verpflichtungen nachzukommen oder auf rechtmäßige Anfragen zu reagieren (z.B. gerichtliche Anordnungen oder behördliche Untersuchungen).
 
 ## 4. Datensicherheit
@@ -70,12 +77,15 @@ Wir nehmen Datensicherheit ernst und implementieren branchenübliche Maßnahmen 
 ## 5. Kontoverwaltung und Datenspeicherung
 
 ### a. **Zugriff und Aktualisierung Ihres Kontos**
+
 Sie können auf Ihre Kontoinformationen über die App oder die Plattform des Social-Login-Anbieters zugreifen und diese aktualisieren.
 
 ### b. **Löschen Ihres Kontos**
-Sie können Ihr Konto jederzeit in den Kontoeinstellungen der App löschen. Wenn Sie Ihr Konto löschen, werden alle damit verbundenen Informationen dauerhaft gelöscht, es sei denn, wir sind gesetzlich verpflichtet, bestimmte Daten aufzubewahren. Bei Fragen kontaktieren Sie uns bitte unter support@listize.com.
+
+Sie können Ihr Konto jederzeit in den Kontoeinstellungen der App löschen. Wenn Sie Ihr Konto löschen, werden alle damit verbundenen Informationen dauerhaft gelöscht, es sei denn, wir sind gesetzlich verpflichtet, bestimmte Daten aufzubewahren. Bei Fragen kontaktieren Sie uns bitte unter support@codeness.ly.
 
 ### c. **Datenspeicherung**
+
 Wir speichern Ihre Informationen, solange Ihr Konto aktiv ist oder dies zur Bereitstellung von Diensten erforderlich ist. Bei Kontolöschung werden Ihre Daten gelöscht oder anonymisiert, außer wenn eine gesetzliche Aufbewahrungspflicht besteht.
 
 ## 6. Kinderdatenschutz
@@ -90,4 +100,4 @@ Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Änderun
 
 Bei Fragen oder Bedenken zu dieser Datenschutzerklärung oder Ihren personenbezogenen Daten kontaktieren Sie uns bitte unter:
 
-**E-Mail**: support@listize.com
+**E-Mail**: support@codeness.ly
